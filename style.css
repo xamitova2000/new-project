@@ -1,0 +1,42 @@
+body{
+	text-align:justify;
+	background-image: url('sh123.jpg');
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: Geneva;
+	font-size: 2em;
+	font-weight: bold;
+	margin:0 auto;
+	width:55%;
+}
+
+
+h1{
+	font-size: 500%;
+	font-family: Algerian;
+	color: black;
+}
+p{
+	font-family: Coper black;
+	color: black;
+}
+ .movies img
+ {
+ 
+	width: 600px;
+	height:500px;
+	} 
+	.step1 a
+	{
+		text-decoration: none;
+		text-align: center;
+		color: white;
+		font-size: 30px;
+		font-family: Cooper black;
+	}
+	.step1 a:hover
+	{
+		border: solid white 2px;
+	}
+ 
